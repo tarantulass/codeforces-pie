@@ -6,7 +6,7 @@ question
 
 /*
 attempts
-simple tracking as we have 
+simple tracking as we have a repeating pattern here also!!
 */
 
 #include<bits/stdc++.h>
@@ -22,6 +22,7 @@ int main(){
 			cin>>row;
 			board.push_back(row);
 		}
+
 		cout<<points<<endl;
 	}
 }
